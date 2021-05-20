@@ -1,6 +1,5 @@
 ## Just a wiggle generator written in Rust :D
 #
-
 ```
 wiggle
 wiggle
@@ -9994,4 +9993,4 @@ wiggle
 wiggle
 ```
 
-![Never gonna give you up...](https://tenor.com/bjCoL.gif)
+![Never gonna give you up...](https://media1.tenor.com/images/8c409e6f39acc1bd796e8031747f19ad/tenor.gif?itemid=17029825)
