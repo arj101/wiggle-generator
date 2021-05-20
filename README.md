@@ -1,5 +1,5 @@
 ## Just a wiggle generator written in Rust :D
-#
+
 ```
 wiggle
 wiggle
